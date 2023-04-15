@@ -14,7 +14,6 @@
 - Franchise operations that are part of restaurant chains have standardized foodstuffs shipped to each restaurant from central locations.
 
 ## Content
-
 - In this Dataset, we have various information about the top 50 Fast-Food chains in the USA (2021).
 - The key features of this Dataset are - 
 ***Fast-Food Chains,
